@@ -4,7 +4,7 @@
     height: 380px;
     width: 400px;
     margin: auto;
-    background-color: #191b28;
+    background-color: white;
    }
    .display-box {
     font-family: 'Orbitron';
@@ -16,7 +16,7 @@
     height: 65%;
    }
    .button {
-    font-family: 'Orbitron', sans-serif;
+    font-family:  sans-serif;
     background-color:violet;
     color: white;
     border: solid black 0.5px;
